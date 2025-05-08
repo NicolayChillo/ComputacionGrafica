@@ -1,10 +1,74 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\Nicolay Chillo\\Universidad\\Semestre 5\\Computacion Grafica\\Figuras\\",
+  "WorkspaceRootPath": "D:\\Nicolay Chillo\\Universidad\\Semestre 5\\Computacion Grafica\\ComputacionGrafica\\Primer Parcial\\Figuras\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B02D515D-9237-446A-B9C6-FEEA0321922D}|Figuras\\Figuras.csproj|d:\\nicolay chillo\\universidad\\semestre 5\\computacion grafica\\figuras\\figuras\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "AbsoluteMoniker": "D:0:0:{B02D515D-9237-446A-B9C6-FEEA0321922D}|Figuras\\Figuras.csproj|d:\\nicolay chillo\\universidad\\semestre 5\\computacion grafica\\computaciongrafica\\primer parcial\\figuras\\figuras\\frmdeltoide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B02D515D-9237-446A-B9C6-FEEA0321922D}|Figuras\\Figuras.csproj|solutionrelative:figuras\\frmdeltoide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B02D515D-9237-446A-B9C6-FEEA0321922D}|Figuras\\Figuras.csproj|d:\\nicolay chillo\\universidad\\semestre 5\\computacion grafica\\computaciongrafica\\primer parcial\\figuras\\figuras\\frmdeltoide.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B02D515D-9237-446A-B9C6-FEEA0321922D}|Figuras\\Figuras.csproj|solutionrelative:figuras\\frmdeltoide.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B02D515D-9237-446A-B9C6-FEEA0321922D}|Figuras\\Figuras.csproj|d:\\nicolay chillo\\universidad\\semestre 5\\computacion grafica\\computaciongrafica\\primer parcial\\figuras\\figuras\\frmdeltoide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B02D515D-9237-446A-B9C6-FEEA0321922D}|Figuras\\Figuras.csproj|solutionrelative:figuras\\frmdeltoide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B02D515D-9237-446A-B9C6-FEEA0321922D}|Figuras\\Figuras.csproj|d:\\nicolay chillo\\universidad\\semestre 5\\computacion grafica\\computaciongrafica\\primer parcial\\figuras\\figuras\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B02D515D-9237-446A-B9C6-FEEA0321922D}|Figuras\\Figuras.csproj|solutionrelative:figuras\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B02D515D-9237-446A-B9C6-FEEA0321922D}|Figuras\\Figuras.csproj|d:\\nicolay chillo\\universidad\\semestre 5\\computacion grafica\\computaciongrafica\\primer parcial\\figuras\\figuras\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{B02D515D-9237-446A-B9C6-FEEA0321922D}|Figuras\\Figuras.csproj|solutionrelative:figuras\\frmhome.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B02D515D-9237-446A-B9C6-FEEA0321922D}|Figuras\\Figuras.csproj|d:\\nicolay chillo\\universidad\\semestre 5\\computacion grafica\\computaciongrafica\\primer parcial\\figuras\\figuras\\frmtrapecio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B02D515D-9237-446A-B9C6-FEEA0321922D}|Figuras\\Figuras.csproj|solutionrelative:figuras\\frmtrapecio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B02D515D-9237-446A-B9C6-FEEA0321922D}|Figuras\\Figuras.csproj|d:\\nicolay chillo\\universidad\\semestre 5\\computacion grafica\\computaciongrafica\\primer parcial\\figuras\\figuras\\frmtrapecio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B02D515D-9237-446A-B9C6-FEEA0321922D}|Figuras\\Figuras.csproj|solutionrelative:figuras\\frmtrapecio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B02D515D-9237-446A-B9C6-FEEA0321922D}|Figuras\\Figuras.csproj|d:\\nicolay chillo\\universidad\\semestre 5\\computacion grafica\\computaciongrafica\\primer parcial\\figuras\\figuras\\cdeltoide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B02D515D-9237-446A-B9C6-FEEA0321922D}|Figuras\\Figuras.csproj|solutionrelative:figuras\\cdeltoide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B02D515D-9237-446A-B9C6-FEEA0321922D}|Figuras\\Figuras.csproj|d:\\nicolay chillo\\universidad\\semestre 5\\computacion grafica\\computaciongrafica\\primer parcial\\figuras\\figuras\\ccuadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B02D515D-9237-446A-B9C6-FEEA0321922D}|Figuras\\Figuras.csproj|solutionrelative:figuras\\ccuadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B02D515D-9237-446A-B9C6-FEEA0321922D}|Figuras\\Figuras.csproj|d:\\nicolay chillo\\universidad\\semestre 5\\computacion grafica\\computaciongrafica\\primer parcial\\figuras\\figuras\\frmromboide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B02D515D-9237-446A-B9C6-FEEA0321922D}|Figuras\\Figuras.csproj|solutionrelative:figuras\\frmromboide.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B02D515D-9237-446A-B9C6-FEEA0321922D}|Figuras\\Figuras.csproj|d:\\nicolay chillo\\universidad\\semestre 5\\computacion grafica\\computaciongrafica\\primer parcial\\figuras\\figuras\\frmtrianguloequilatero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B02D515D-9237-446A-B9C6-FEEA0321922D}|Figuras\\Figuras.csproj|solutionrelative:figuras\\frmtrianguloequilatero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B02D515D-9237-446A-B9C6-FEEA0321922D}|Figuras\\Figuras.csproj|d:\\nicolay chillo\\universidad\\semestre 5\\computacion grafica\\computaciongrafica\\primer parcial\\figuras\\figuras\\frmtrianguloequilatero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B02D515D-9237-446A-B9C6-FEEA0321922D}|Figuras\\Figuras.csproj|solutionrelative:figuras\\frmtrianguloequilatero.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B02D515D-9237-446A-B9C6-FEEA0321922D}|Figuras\\Figuras.csproj|d:\\nicolay chillo\\universidad\\semestre 5\\computacion grafica\\computaciongrafica\\primer parcial\\figuras\\figuras\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B02D515D-9237-446A-B9C6-FEEA0321922D}|Figuras\\Figuras.csproj|solutionrelative:figuras\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B02D515D-9237-446A-B9C6-FEEA0321922D}|Figuras\\Figuras.csproj|d:\\nicolay chillo\\universidad\\semestre 5\\computacion grafica\\computaciongrafica\\primer parcial\\figuras\\figuras\\frmcuadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B02D515D-9237-446A-B9C6-FEEA0321922D}|Figuras\\Figuras.csproj|solutionrelative:figuras\\frmcuadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B02D515D-9237-446A-B9C6-FEEA0321922D}|Figuras\\Figuras.csproj|d:\\nicolay chillo\\universidad\\semestre 5\\computacion grafica\\computaciongrafica\\primer parcial\\figuras\\figuras\\frmcuadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B02D515D-9237-446A-B9C6-FEEA0321922D}|Figuras\\Figuras.csproj|solutionrelative:figuras\\frmcuadrado.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B02D515D-9237-446A-B9C6-FEEA0321922D}|Figuras\\Figuras.csproj|d:\\nicolay chillo\\universidad\\semestre 5\\computacion grafica\\computaciongrafica\\primer parcial\\figuras\\figuras\\crectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B02D515D-9237-446A-B9C6-FEEA0321922D}|Figuras\\Figuras.csproj|solutionrelative:figuras\\crectangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B02D515D-9237-446A-B9C6-FEEA0321922D}|Figuras\\Figuras.csproj|d:\\nicolay chillo\\universidad\\semestre 5\\computacion grafica\\computaciongrafica\\primer parcial\\figuras\\figuras\\frmcuadrado.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B02D515D-9237-446A-B9C6-FEEA0321922D}|Figuras\\Figuras.csproj|solutionrelative:figuras\\frmcuadrado.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +78,184 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FrmDeltoide.Designer.cs",
+              "DocumentMoniker": "D:\\Nicolay Chillo\\Universidad\\Semestre 5\\Computacion Grafica\\ComputacionGrafica\\Primer Parcial\\Figuras\\Figuras\\FrmDeltoide.Designer.cs",
+              "RelativeDocumentMoniker": "Figuras\\FrmDeltoide.Designer.cs",
+              "ToolTip": "D:\\Nicolay Chillo\\Universidad\\Semestre 5\\Computacion Grafica\\ComputacionGrafica\\Primer Parcial\\Figuras\\Figuras\\FrmDeltoide.Designer.cs",
+              "RelativeToolTip": "Figuras\\FrmDeltoide.Designer.cs",
+              "ViewState": "AgIAAAABAAAAAAAAAAAiwAkBAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T09:36:16.049Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FrmDeltoide.cs",
+              "DocumentMoniker": "D:\\Nicolay Chillo\\Universidad\\Semestre 5\\Computacion Grafica\\ComputacionGrafica\\Primer Parcial\\Figuras\\Figuras\\FrmDeltoide.cs",
+              "RelativeDocumentMoniker": "Figuras\\FrmDeltoide.cs",
+              "ToolTip": "D:\\Nicolay Chillo\\Universidad\\Semestre 5\\Computacion Grafica\\ComputacionGrafica\\Primer Parcial\\Figuras\\Figuras\\FrmDeltoide.cs",
+              "RelativeToolTip": "Figuras\\FrmDeltoide.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T09:33:10.806Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FrmDeltoide.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Nicolay Chillo\\Universidad\\Semestre 5\\Computacion Grafica\\ComputacionGrafica\\Primer Parcial\\Figuras\\Figuras\\FrmDeltoide.cs",
+              "RelativeDocumentMoniker": "Figuras\\FrmDeltoide.cs",
+              "ToolTip": "D:\\Nicolay Chillo\\Universidad\\Semestre 5\\Computacion Grafica\\ComputacionGrafica\\Primer Parcial\\Figuras\\Figuras\\FrmDeltoide.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Figuras\\FrmDeltoide.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T09:31:56.557Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FrmTrapecio.cs",
+              "DocumentMoniker": "D:\\Nicolay Chillo\\Universidad\\Semestre 5\\Computacion Grafica\\ComputacionGrafica\\Primer Parcial\\Figuras\\Figuras\\FrmTrapecio.cs",
+              "RelativeDocumentMoniker": "Figuras\\FrmTrapecio.cs",
+              "ToolTip": "D:\\Nicolay Chillo\\Universidad\\Semestre 5\\Computacion Grafica\\ComputacionGrafica\\Primer Parcial\\Figuras\\Figuras\\FrmTrapecio.cs",
+              "RelativeToolTip": "Figuras\\FrmTrapecio.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T08:26:17.529Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FrmHome.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Nicolay Chillo\\Universidad\\Semestre 5\\Computacion Grafica\\ComputacionGrafica\\Primer Parcial\\Figuras\\Figuras\\FrmHome.cs",
+              "RelativeDocumentMoniker": "Figuras\\FrmHome.cs",
+              "ToolTip": "D:\\Nicolay Chillo\\Universidad\\Semestre 5\\Computacion Grafica\\ComputacionGrafica\\Primer Parcial\\Figuras\\Figuras\\FrmHome.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Figuras\\FrmHome.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T03:20:18.786Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FrmHome.cs",
+              "DocumentMoniker": "D:\\Nicolay Chillo\\Universidad\\Semestre 5\\Computacion Grafica\\ComputacionGrafica\\Primer Parcial\\Figuras\\Figuras\\FrmHome.cs",
+              "RelativeDocumentMoniker": "Figuras\\FrmHome.cs",
+              "ToolTip": "D:\\Nicolay Chillo\\Universidad\\Semestre 5\\Computacion Grafica\\ComputacionGrafica\\Primer Parcial\\Figuras\\Figuras\\FrmHome.cs",
+              "RelativeToolTip": "Figuras\\FrmHome.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAcwE8AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T07:31:26.64Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "FrmTrapecio.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Nicolay Chillo\\Universidad\\Semestre 5\\Computacion Grafica\\ComputacionGrafica\\Primer Parcial\\Figuras\\Figuras\\FrmTrapecio.cs",
+              "RelativeDocumentMoniker": "Figuras\\FrmTrapecio.cs",
+              "ToolTip": "D:\\Nicolay Chillo\\Universidad\\Semestre 5\\Computacion Grafica\\ComputacionGrafica\\Primer Parcial\\Figuras\\Figuras\\FrmTrapecio.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Figuras\\FrmTrapecio.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T08:19:26.573Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CDeltoide.cs",
+              "DocumentMoniker": "D:\\Nicolay Chillo\\Universidad\\Semestre 5\\Computacion Grafica\\ComputacionGrafica\\Primer Parcial\\Figuras\\Figuras\\CDeltoide.cs",
+              "RelativeDocumentMoniker": "Figuras\\CDeltoide.cs",
+              "ToolTip": "D:\\Nicolay Chillo\\Universidad\\Semestre 5\\Computacion Grafica\\ComputacionGrafica\\Primer Parcial\\Figuras\\Figuras\\CDeltoide.cs",
+              "RelativeToolTip": "Figuras\\CDeltoide.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAFkAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T09:25:35.49Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "FrmRomboide.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Nicolay Chillo\\Universidad\\Semestre 5\\Computacion Grafica\\ComputacionGrafica\\Primer Parcial\\Figuras\\Figuras\\FrmRomboide.cs",
+              "RelativeDocumentMoniker": "Figuras\\FrmRomboide.cs",
+              "ToolTip": "D:\\Nicolay Chillo\\Universidad\\Semestre 5\\Computacion Grafica\\ComputacionGrafica\\Primer Parcial\\Figuras\\Figuras\\FrmRomboide.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Figuras\\FrmRomboide.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T09:17:09.94Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CCuadrado.cs",
+              "DocumentMoniker": "D:\\Nicolay Chillo\\Universidad\\Semestre 5\\Computacion Grafica\\ComputacionGrafica\\Primer Parcial\\Figuras\\Figuras\\CCuadrado.cs",
+              "RelativeDocumentMoniker": "Figuras\\CCuadrado.cs",
+              "ToolTip": "D:\\Nicolay Chillo\\Universidad\\Semestre 5\\Computacion Grafica\\ComputacionGrafica\\Primer Parcial\\Figuras\\Figuras\\CCuadrado.cs",
+              "RelativeToolTip": "Figuras\\CCuadrado.cs",
+              "ViewState": "AgIAAGUAAAAAAAAAAAAAAHEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T08:20:02.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "FrmTrianguloEquilatero.cs",
+              "DocumentMoniker": "D:\\Nicolay Chillo\\Universidad\\Semestre 5\\Computacion Grafica\\ComputacionGrafica\\Primer Parcial\\Figuras\\Figuras\\FrmTrianguloEquilatero.cs",
+              "RelativeDocumentMoniker": "Figuras\\FrmTrianguloEquilatero.cs",
+              "ToolTip": "D:\\Nicolay Chillo\\Universidad\\Semestre 5\\Computacion Grafica\\ComputacionGrafica\\Primer Parcial\\Figuras\\Figuras\\FrmTrianguloEquilatero.cs",
+              "RelativeToolTip": "Figuras\\FrmTrianguloEquilatero.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAswCsAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T07:55:59.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "FrmTrianguloEquilatero.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Nicolay Chillo\\Universidad\\Semestre 5\\Computacion Grafica\\ComputacionGrafica\\Primer Parcial\\Figuras\\Figuras\\FrmTrianguloEquilatero.cs",
+              "RelativeDocumentMoniker": "Figuras\\FrmTrianguloEquilatero.cs",
+              "ToolTip": "D:\\Nicolay Chillo\\Universidad\\Semestre 5\\Computacion Grafica\\ComputacionGrafica\\Primer Parcial\\Figuras\\Figuras\\FrmTrianguloEquilatero.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Figuras\\FrmTrianguloEquilatero.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T07:54:28.126Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Nicolay Chillo\\Universidad\\Semestre 5\\Computacion Grafica\\ComputacionGrafica\\Primer Parcial\\Figuras\\Figuras\\Program.cs",
+              "RelativeDocumentMoniker": "Figuras\\Program.cs",
+              "ToolTip": "D:\\Nicolay Chillo\\Universidad\\Semestre 5\\Computacion Grafica\\ComputacionGrafica\\Primer Parcial\\Figuras\\Figuras\\Program.cs",
+              "RelativeToolTip": "Figuras\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T08:13:01.223Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "FrmCuadrado.cs [Dise\u00F1o]",
+              "DocumentMoniker": "D:\\Nicolay Chillo\\Universidad\\Semestre 5\\Computacion Grafica\\ComputacionGrafica\\Primer Parcial\\Figuras\\Figuras\\FrmCuadrado.cs",
+              "RelativeDocumentMoniker": "Figuras\\FrmCuadrado.cs",
+              "ToolTip": "D:\\Nicolay Chillo\\Universidad\\Semestre 5\\Computacion Grafica\\ComputacionGrafica\\Primer Parcial\\Figuras\\Figuras\\FrmCuadrado.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Figuras\\FrmCuadrado.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T08:20:06.171Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
@@ -26,15 +266,42 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FrmHome.cs [Dise\u00F1o]",
-              "DocumentMoniker": "D:\\Nicolay Chillo\\Universidad\\Semestre 5\\Computacion Grafica\\Figuras\\Figuras\\FrmHome.cs",
-              "RelativeDocumentMoniker": "Figuras\\FrmHome.cs",
-              "ToolTip": "D:\\Nicolay Chillo\\Universidad\\Semestre 5\\Computacion Grafica\\Figuras\\Figuras\\FrmHome.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Figuras\\FrmHome.cs [Dise\u00F1o]",
+              "DocumentIndex": 14,
+              "Title": "FrmCuadrado.cs",
+              "DocumentMoniker": "D:\\Nicolay Chillo\\Universidad\\Semestre 5\\Computacion Grafica\\ComputacionGrafica\\Primer Parcial\\Figuras\\Figuras\\FrmCuadrado.cs",
+              "RelativeDocumentMoniker": "Figuras\\FrmCuadrado.cs",
+              "ToolTip": "D:\\Nicolay Chillo\\Universidad\\Semestre 5\\Computacion Grafica\\ComputacionGrafica\\Primer Parcial\\Figuras\\Figuras\\FrmCuadrado.cs",
+              "RelativeToolTip": "Figuras\\FrmCuadrado.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAqwDAAAAAtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-08T03:20:18.786Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2025-05-08T07:42:07.637Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "CRectangulo.cs",
+              "DocumentMoniker": "D:\\Nicolay Chillo\\Universidad\\Semestre 5\\Computacion Grafica\\ComputacionGrafica\\Primer Parcial\\Figuras\\Figuras\\CRectangulo.cs",
+              "RelativeDocumentMoniker": "Figuras\\CRectangulo.cs",
+              "ToolTip": "D:\\Nicolay Chillo\\Universidad\\Semestre 5\\Computacion Grafica\\ComputacionGrafica\\Primer Parcial\\Figuras\\Figuras\\CRectangulo.cs",
+              "RelativeToolTip": "Figuras\\CRectangulo.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAA0wFIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T07:20:24.841Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "FrmCuadrado.Designer.cs",
+              "DocumentMoniker": "D:\\Nicolay Chillo\\Universidad\\Semestre 5\\Computacion Grafica\\ComputacionGrafica\\Primer Parcial\\Figuras\\Figuras\\FrmCuadrado.Designer.cs",
+              "RelativeDocumentMoniker": "Figuras\\FrmCuadrado.Designer.cs",
+              "ToolTip": "D:\\Nicolay Chillo\\Universidad\\Semestre 5\\Computacion Grafica\\ComputacionGrafica\\Primer Parcial\\Figuras\\Figuras\\FrmCuadrado.Designer.cs",
+              "RelativeToolTip": "Figuras\\FrmCuadrado.Designer.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAiwGQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-08T06:47:58.067Z",
+              "EditorCaption": ""
             }
           ]
         }

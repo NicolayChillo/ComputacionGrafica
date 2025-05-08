@@ -8,3 +8,22 @@ D:\Nicolay Chillo\Universidad\Semestre 5\Computacion Grafica\Figuras\Figuras\obj
 D:\Nicolay Chillo\Universidad\Semestre 5\Computacion Grafica\Figuras\Figuras\obj\Debug\Figuras.csproj.CoreCompileInputs.cache
 D:\Nicolay Chillo\Universidad\Semestre 5\Computacion Grafica\Figuras\Figuras\obj\Debug\Figuras.exe
 D:\Nicolay Chillo\Universidad\Semestre 5\Computacion Grafica\Figuras\Figuras\obj\Debug\Figuras.pdb
+D:\Nicolay Chillo\Universidad\Semestre 5\Computacion Grafica\ComputacionGrafica\Primer Parcial\Figuras\Figuras\bin\Debug\Figuras.exe.config
+D:\Nicolay Chillo\Universidad\Semestre 5\Computacion Grafica\ComputacionGrafica\Primer Parcial\Figuras\Figuras\bin\Debug\Figuras.exe
+D:\Nicolay Chillo\Universidad\Semestre 5\Computacion Grafica\ComputacionGrafica\Primer Parcial\Figuras\Figuras\bin\Debug\Figuras.pdb
+D:\Nicolay Chillo\Universidad\Semestre 5\Computacion Grafica\ComputacionGrafica\Primer Parcial\Figuras\Figuras\obj\Debug\Figuras.csproj.AssemblyReference.cache
+D:\Nicolay Chillo\Universidad\Semestre 5\Computacion Grafica\ComputacionGrafica\Primer Parcial\Figuras\Figuras\obj\Debug\Figuras.FrmCuadrado.resources
+D:\Nicolay Chillo\Universidad\Semestre 5\Computacion Grafica\ComputacionGrafica\Primer Parcial\Figuras\Figuras\obj\Debug\Figuras.FrmHome.resources
+D:\Nicolay Chillo\Universidad\Semestre 5\Computacion Grafica\ComputacionGrafica\Primer Parcial\Figuras\Figuras\obj\Debug\Figuras.Properties.Resources.resources
+D:\Nicolay Chillo\Universidad\Semestre 5\Computacion Grafica\ComputacionGrafica\Primer Parcial\Figuras\Figuras\obj\Debug\Figuras.csproj.GenerateResource.cache
+D:\Nicolay Chillo\Universidad\Semestre 5\Computacion Grafica\ComputacionGrafica\Primer Parcial\Figuras\Figuras\obj\Debug\Figuras.csproj.CoreCompileInputs.cache
+D:\Nicolay Chillo\Universidad\Semestre 5\Computacion Grafica\ComputacionGrafica\Primer Parcial\Figuras\Figuras\obj\Debug\Figuras.exe
+D:\Nicolay Chillo\Universidad\Semestre 5\Computacion Grafica\ComputacionGrafica\Primer Parcial\Figuras\Figuras\obj\Debug\Figuras.pdb
+D:\Nicolay Chillo\Universidad\Semestre 5\Computacion Grafica\ComputacionGrafica\Primer Parcial\Figuras\Figuras\obj\Debug\Figuras.FrmRectangulo.resources
+D:\Nicolay Chillo\Universidad\Semestre 5\Computacion Grafica\ComputacionGrafica\Primer Parcial\Figuras\Figuras\obj\Debug\Figuras.FrmEstrella.resources
+D:\Nicolay Chillo\Universidad\Semestre 5\Computacion Grafica\ComputacionGrafica\Primer Parcial\Figuras\Figuras\obj\Debug\Figuras.FrmTrianguloEquilatero.resources
+D:\Nicolay Chillo\Universidad\Semestre 5\Computacion Grafica\ComputacionGrafica\Primer Parcial\Figuras\Figuras\obj\Debug\Figuras.FrmTrapecio.resources
+D:\Nicolay Chillo\Universidad\Semestre 5\Computacion Grafica\ComputacionGrafica\Primer Parcial\Figuras\Figuras\obj\Debug\Figuras.FrmTrapezoide.resources
+D:\Nicolay Chillo\Universidad\Semestre 5\Computacion Grafica\ComputacionGrafica\Primer Parcial\Figuras\Figuras\obj\Debug\Figuras.FrmRombo.resources
+D:\Nicolay Chillo\Universidad\Semestre 5\Computacion Grafica\ComputacionGrafica\Primer Parcial\Figuras\Figuras\obj\Debug\Figuras.FrmRomboide.resources
+D:\Nicolay Chillo\Universidad\Semestre 5\Computacion Grafica\ComputacionGrafica\Primer Parcial\Figuras\Figuras\obj\Debug\Figuras.FrmDeltoide.resources
