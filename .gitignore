@@ -1,0 +1,44 @@
+# Archivos de compilación
+bin/
+obj/
+
+# Archivos de usuario (configuraciones personales de VS)
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Archivos de caché
+.vs/
+*.cache
+*.dbmdl
+
+# Configuración de paquetes
+packages/
+*.nupkg
+project.lock.json
+project.fragment.lock.json
+
+# Logs y errores temporales
+*.log
+
+# Archivos generados por el diseñador
+*.Designer.cs
+
+# Archivos de publicación
+PublishProfiles/
+*.pubxml
+
+# Archivos de respaldo
+*.bak
+*.orig
+
+# Archivos de la papelera de Visual Studio
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# Otros
+TestResults/
+*.vspscc
+*.vssscc
