@@ -27,3 +27,4 @@ D:\Nicolay Chillo\Universidad\Semestre 5\Computacion Grafica\ComputacionGrafica\
 D:\Nicolay Chillo\Universidad\Semestre 5\Computacion Grafica\ComputacionGrafica\Primer Parcial\Figuras\Figuras\obj\Debug\Figuras.FrmRombo.resources
 D:\Nicolay Chillo\Universidad\Semestre 5\Computacion Grafica\ComputacionGrafica\Primer Parcial\Figuras\Figuras\obj\Debug\Figuras.FrmRomboide.resources
 D:\Nicolay Chillo\Universidad\Semestre 5\Computacion Grafica\ComputacionGrafica\Primer Parcial\Figuras\Figuras\obj\Debug\Figuras.FrmDeltoide.resources
+D:\Nicolay Chillo\Universidad\Semestre 5\Computacion Grafica\ComputacionGrafica\Primer Parcial\Figuras\Figuras\obj\Debug\Figuras.FrmPoligonoRegular.resources

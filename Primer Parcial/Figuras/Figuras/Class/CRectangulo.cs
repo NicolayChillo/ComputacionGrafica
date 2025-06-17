@@ -19,6 +19,8 @@ namespace Figuras
         private const float SF = 20;    // Factor de escala
         private Pen mPen;               // Objeto Pen -> Lápiz
 
+        
+        
         // Constructor sin parámetros
         public CRectangulo()
         {
@@ -104,6 +106,7 @@ namespace Figuras
             mGraphs = picCanvas.CreateGraphics();
             mPen = new Pen(Color.Green, 3);
             mGraphs.DrawRectangle(mPen, 0, 0, mWidth * SF, mHeight * SF);
+
         }
 
         // Función que cierra un formulario
