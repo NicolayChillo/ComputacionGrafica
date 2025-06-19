@@ -46,16 +46,57 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="CAlgorithmBresenham.cs" />
+    <Compile Include="CAlgorithmCircle.cs" />
+    <Compile Include="CAlgorithmDDA.cs" />
+    <Compile Include="CFigure.cs" />
+    <Compile Include="CPolygon.cs" />
+    <Compile Include="FrmAlgorithmBresenham.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAlgorithmBresenham.Designer.cs">
+      <DependentUpon>FrmAlgorithmBresenham.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAlgorithmCircle.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAlgorithmCircle.Designer.cs">
+      <DependentUpon>FrmAlgorithmCircle.cs</DependentUpon>
+    </Compile>
+    <Compile Include="FrmAlgorithmDDA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmAlgorithmDDA.Designer.cs">
+      <DependentUpon>FrmAlgorithmDDA.cs</DependentUpon>
+    </Compile>
     <Compile Include="FrmHome.cs">
       <SubType>Form</SubType>
     </Compile>
     <Compile Include="FrmHome.Designer.cs">
       <DependentUpon>FrmHome.cs</DependentUpon>
     </Compile>
+    <Compile Include="FrmPolygon.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmPolygon.Designer.cs">
+      <DependentUpon>FrmPolygon.cs</DependentUpon>
+    </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FrmAlgorithmBresenham.resx">
+      <DependentUpon>FrmAlgorithmBresenham.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAlgorithmCircle.resx">
+      <DependentUpon>FrmAlgorithmCircle.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmAlgorithmDDA.resx">
+      <DependentUpon>FrmAlgorithmDDA.cs</DependentUpon>
+    </EmbeddedResource>
     <EmbeddedResource Include="FrmHome.resx">
       <DependentUpon>FrmHome.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="FrmPolygon.resx">
+      <DependentUpon>FrmPolygon.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="Properties\Resources.resx">
       <Generator>ResXFileCodeGenerator</Generator>

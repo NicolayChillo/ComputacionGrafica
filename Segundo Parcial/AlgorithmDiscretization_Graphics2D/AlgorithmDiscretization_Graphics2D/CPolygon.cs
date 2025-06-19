@@ -31,9 +31,9 @@ namespace AlgorithmDiscretization_Graphics2D
                     return false;
                 }
 
-                if (numLados < 3 || numLados > 10)
+                if (numLados < 3)
                 {
-                    MessageBox.Show("El número de lados debe estar entre 3 y 10.", "Error de validación");
+                    MessageBox.Show("El número de lados debe estar entre 3", "Error de validación");
                     numLados = 3;
 
                     return false;

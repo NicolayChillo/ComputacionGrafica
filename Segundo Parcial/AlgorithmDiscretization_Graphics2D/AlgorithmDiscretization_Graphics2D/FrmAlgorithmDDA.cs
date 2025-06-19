@@ -10,21 +10,21 @@ using System.Windows.Forms;
 
 namespace AlgorithmDiscretization_Graphics2D
 {
-    public partial class FrmAlgorithmBresenham : Form
+    public partial class FrmAlgorithmDDA : Form
     {
-        private CAlgorithmBresenham algorithmBresenham = new CAlgorithmBresenham();
+        private CAlgorithmDDA algorithmDDA = new CAlgorithmDDA();
         private int clickCount = 0;
-        public FrmAlgorithmBresenham()
+        public FrmAlgorithmDDA()
         {
             InitializeComponent();
         }
 
         private void btnDraw_Click(object sender, EventArgs e)
         {
-            algorithmBresenham.ReadData(txtX1, txtY1, txtX2, txtY2);
-            algorithmBresenham.PlotShape(picCanvas.CreateGraphics());
+            algorithmDDA.ReadData(txtX1, txtY1, txtX2, txtY2);
+            algorithmDDA.PlotShape(picCanvas.CreateGraphics());
             lstPoints.Items.Clear();
-            foreach (Point pt in algorithmBresenham.GetLinePoints())
+            foreach (Point pt in algorithmDDA.GetLinePoints())
             {
                 lstPoints.Items.Add($"({pt.X}, {pt.Y})");
             }
@@ -35,12 +35,12 @@ namespace AlgorithmDiscretization_Graphics2D
 
         private void btnClear_Click(object sender, EventArgs e)
         {
-            algorithmBresenham.InitializeData(txtX1, txtY1, txtX2, txtY2, picCanvas);
-            clickCount = 0;
+            algorithmDDA.InitializeData(txtX1, txtY1, txtX2, txtY2, picCanvas);
             lstPoints.Items.Clear();
             lblInfoPoints.Enabled = false;
             lblTotalPoints.Visible = false;
         }
+
 
         private void picCanvas_MouseClick(object sender, MouseEventArgs e)
         {
@@ -72,6 +72,11 @@ namespace AlgorithmDiscretization_Graphics2D
                 }
                 clickCount = 0;
             }
+        }
+
+        private void lblTotalPoints_Click(object sender, EventArgs e)
+        {
+            lblTotalPoints.Visible = false;
         }
     }
 }
